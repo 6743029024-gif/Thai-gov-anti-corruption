@@ -1,6 +1,0 @@
-git init
-git remote add origin https://github.com/6743029024-gif/Thai-gov-anti-corruption.git
-git pull origin main --allow-unrelated-histories
-git add .
-git commit -m "Add whistleblower intake web app"
-git push -u origin main
